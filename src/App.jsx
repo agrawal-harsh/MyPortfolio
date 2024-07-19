@@ -90,9 +90,9 @@ function App() {
   <div class = "h-48 flex flex-col justify-center items-center">
     <div class = "flex h-8 mx-16 gap-9 align-baseline">
       <a href = ""><img class = "w-8" src = "https://imgs.search.brave.com/Kf1sAfstuoF5B7g_t7AadfJDGBEludWgp8-ua5MJTys/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LmluZm8vaW1h/Z2VzL21pbmljb3Zl/cnMvMTUwOTEzNTEw/OWZhY2Vib29rLXN5/bWJvbC1sb2dvLXBu/Zy1ibGFjay02MjZ4/NjI2LmpwZw"/></a>
-      <a href = "https://www.instagram.com/i.harshagrawal/"><img class = "w-8" src = "https://imgs.search.brave.com/3Pk3IOdxIjkHFc8m96wM_5ST2uaLKKRkZNdDD3fnO_Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ZWNlYzc4NjczZTQ0/NDAwMDRmMDllNzcu/cG5n"/></a>
+      <a href = "https://www.instagram.com/i.harshagrawal/"  target='_blank'><img class = "w-8" src = "https://imgs.search.brave.com/3Pk3IOdxIjkHFc8m96wM_5ST2uaLKKRkZNdDD3fnO_Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ZWNlYzc4NjczZTQ0/NDAwMDRmMDllNzcu/cG5n"/></a>
       <a><img class = "w-10" src = "https://imgs.search.brave.com/WaRk_TWHm8NzLjMtRkXonOZTp5xKkmW5LMbTWemSzjk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL25ld19nYWxs/ZXJ5LzI4LTI4NDQ2/N19saWNlbnNpbmct/dHdpdHRlci1sb2dv/LWJsYWNrLXBuZy5w/bmc"/></a>
-      <a href="https://www.linkedin.com/in/harsh-agrawal-70a211262?utm_source=share&utm_campaign=share_via&utm_content=profil"><img class = "w-8" src = "https://imgs.search.brave.com/dylfuUR4HK0TMv7fc7AtvdK82vGUbC-1KJp0VG3Cm5U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzQ2Lzc4LzIz/LzM2MF9GXzU0Njc4/MjM5OF8yNlYzcEw4/NGRKWUw3b3ZnSUlJ/amNESjdJaFBVRHhT/QS5qcGc"/></a>
+      <a href="https://www.linkedin.com/in/harsh-agrawal-70a211262?utm_source=share&utm_campaign=share_via&utm_content=profil"  target='_blank'><img class = "w-8" src = "https://imgs.search.brave.com/dylfuUR4HK0TMv7fc7AtvdK82vGUbC-1KJp0VG3Cm5U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzQ2Lzc4LzIz/LzM2MF9GXzU0Njc4/MjM5OF8yNlYzcEw4/NGRKWUw3b3ZnSUlJ/amNESjdJaFBVRHhT/QS5qcGc"/></a>
     </div>
     <p class = "mt-7">Copyright ©2020 All rights reserved</p>
   </div>
