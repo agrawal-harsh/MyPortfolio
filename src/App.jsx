@@ -21,7 +21,7 @@ function App() {
     <div class = "flex flex-col items-center lg:w-3/5 lg:items-start">
     <h1 class = "flex flex-col items-center text-4xl sm:mx-8 sm:mt-8 font-bold lg:items-start lg:text-5xl lg:mx-0">Hi, I am Harsh,<span> Software Engineer</span></h1>
     <p class = "text-slate-800 sm:mx-6 mt-5 text-center lg:text-base lg:text-left lg:mx-0">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
-    <a href = 'https://drive.google.com/file/d/1tiuxVI74HbnGtZ4KJ_7tsWnInWNp8_fk/view?usp=drive_link' target='_blank'><button class = "text-white bg-red-500 px-5 py-2 font-semibold text-lg rounded mt-7 lg:text-xl">Download Resume</button>
+    <a href = 'https://drive.google.com/file/d/1ZGGBNdQZfgwsRxvLTw_visHz3iBQ6X9h/view' target='_blank'><button class = "text-white bg-red-500 px-5 py-2 font-semibold text-lg rounded mt-7 lg:text-xl">Download Resume</button>
     </a>
     </div>
   </div>
